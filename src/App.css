@@ -12,12 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.Image {
+  display:block;
+  margin:auto;
+}
 .App-header {
-  background-image: url("./fuego.jpg");
+  background-image: url("./gym.jpg");
   background-size: 25px;
   background-size: 50%;
-  background-size: auto 50px;
+  background-size: auto 500px;
   background-size: auto 100%;
 
   min-height: 100vh;
